@@ -22,7 +22,7 @@
 ### 1.1. Clone this repository to your local machine:
 
 ```bash
-git clone git@gitlab.com:credit_backend.git
+git clone github.com/dannapaolacp/backend_credit.git
 
 ```
 
